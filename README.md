@@ -6,7 +6,10 @@ A Multimedia Engineering Student from Universidad de San Buenaventura Cali and I
 ## My actual GitHub stats 📈 : 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=JramosF25&langs_count=8)](https://github.com/anuraghazra/github-readme-stats)
 <br>
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=JramosF25&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+<br>
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=JramosF25)](https://github.com/anuraghazra/github-readme-stats)
+<br>
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=JramosF25&show_icons=true&theme=radical)
 <br>
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=JramosF25&show_icons=true&theme=radical)
